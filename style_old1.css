@@ -1,11 +1,10 @@
-
 @font-face {
-    font-family: Arial,sans-serif,'Titillium Web';
+    font-family: 'Titillium Web',Arial,sans-serif;
 }   
 
 body {
 	background-color:#fff;
-	font-family: Arial,sans-serif,'Titillium Web';
+	font-family: 'Titillium Web',Arial,sans-serif;
 	/*margin:0; padding:0; */
 
     margin:10px auto;
@@ -16,6 +15,7 @@ body {
     padding:0
     10px
 }
+
 .navigation {
     font-family: arial;
     font-size: 0.75em;
@@ -90,6 +90,7 @@ div.tiles a{
     text-decoration:none;
 }
 
+    
 /*body{margin:40px
 auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
 10px}*/
@@ -141,7 +142,7 @@ h1,h2,h3{line-height:1.2}
 .main a, .contact a, .footer a { color:#4e9258; text-decoration:none; }
 
 .maincontainer h1, .header h1, .main h1 { 
-    font-family: serif,'Titillium Web';
+    font-family: 'Titillium Web', serif;
 }
 
 .header h1 {
@@ -178,4 +179,3 @@ h1,h2,h3{line-height:1.2}
 .gh a:hover { color:#4e9258; }
 .qu a:hover { color:#990000; }
 .so a:hover { color:#ff9900;}
-
