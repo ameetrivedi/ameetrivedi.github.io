@@ -169,6 +169,12 @@ h1,h2,h3{line-height:1.2}
 	position: absolute;
 }*/
 
+<style>
+  .bottom-three {
+     margin-bottom: 3cm;
+  }
+</style>
+
 .social { width:160px; margin:auto; padding-top:20px;}
 .social a { color:#000; }
 .fb a:hover { color:#3b5998; }
