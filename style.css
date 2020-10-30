@@ -76,6 +76,8 @@ text-align:center;
 div.tiles table tr td.news{
 padding-left:10px;
 text-align:left;
+line-height: 0.9;
+font-size: 13px;
 }
 
 div.tiles ul li{
